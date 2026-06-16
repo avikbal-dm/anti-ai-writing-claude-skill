@@ -5,7 +5,7 @@
 
 Humanize AI writing so it reads like a real person wrote it.
 
-A practitioner's writing-style ruleset and editor for Claude, by [Avik Bal](https://github.com/avikbal-dm). It turns flat, generic model output into clear, specific, original content with a genuine voice. It removes the AI tells, forces real specificity, asks you for the inputs only you have, and never fabricates facts, data, or examples.
+A practitioner's writing-style ruleset and editor for Claude, by [Avik Bal](https://www.linkedin.com/in/avikbal/). It turns flat, generic model output into clear, specific, original content with a genuine voice. It removes the AI tells, forces real specificity, asks you for the inputs only you have, and never fabricates facts, data, or examples.
 
 ## What's in this repo
 

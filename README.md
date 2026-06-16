@@ -1,1 +1,0 @@
-# anti-ai-writing-claude-skill
